@@ -1,0 +1,6 @@
+*.profraw
+*.profdata
+*.dat
+*.html
+*.json
+main
